@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 ﻿using FinalProject.Models;
+=======
+﻿using FinalProject.Models;
+>>>>>>> 6c6fb595adf731cf9be58b6ce71879742a6f4e27
 using Microsoft.AspNetCore.Mvc;
 
 namespace FinalProject.Controllers
