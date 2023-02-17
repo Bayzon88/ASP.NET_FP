@@ -5,97 +5,96 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FinalProject
 build_property.RootNamespace = FinalProject
-build_property.ProjectDir = C:\Users\User\OneDrive\Humber\03_Semester_3\ITE5331-Web_App_ASP.NET\Final Project\FinalProject\FinalProject\
+build_property.ProjectDir = C:\Users\Tuyi\Desktop\Humber\Term3\ITE-5331 ASP.NET\ASP.NET_FP\FinalProject\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\User\OneDrive\Humber\03_Semester_3\ITE5331-Web_App_ASP.NET\Final Project\FinalProject\FinalProject
+build_property.MSBuildProjectDirectory = C:\Users\Tuyi\Desktop\Humber\Term3\ITE-5331 ASP.NET\ASP.NET_FP\FinalProject
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/Account/Details.cshtml]
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/Account/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/Account/Login.cshtml]
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/Appointment/Calendar.cshtml]
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/Appointment/Calendar.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcQ2FsZW5kYXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/Appointment/Confirm.cshtml]
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/Appointment/Confirm.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcQ29uZmlybS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/Appointment/Create.cshtml]
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/Appointment/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/Appointment/Edit.cshtml]
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/Appointment/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwb2ludG1lbnRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/Home/Index.cshtml]
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/Home/Privacy.cshtml]
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/Listings/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGluZ3NcQ3JlYXRlLmNzaHRtbA==
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/Listing/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGluZ1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/Listings/Details.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGluZ3NcRGV0YWlscy5jc2h0bWw=
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/Listing/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGluZ1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/Listings/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGluZ3NcRWRpdC5jc2h0bWw=
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/Listing/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGluZ1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/Listings/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGluZ3NcSW5kZXguY3NodG1s
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/Listing/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGlzdGluZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/Message/Details.cshtml]
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/Message/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/Message/Index.cshtml]
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/Message/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVzc2FnZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/Notification/Details.cshtml]
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/Notification/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/Notification/Index.cshtml]
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/Notification/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm90aWZpY2F0aW9uXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/Shared/Error.cshtml]
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/_ViewImports.cshtml]
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/_ViewStart.cshtml]
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/User/OneDrive/Humber/03_Semester_3/ITE5331-Web_App_ASP.NET/Final Project/FinalProject/FinalProject/Views/Shared/_Layout.cshtml]
+[C:/Users/Tuyi/Desktop/Humber/Term3/ITE-5331 ASP.NET/ASP.NET_FP/FinalProject/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1iqdgs6srz

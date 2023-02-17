@@ -1,0 +1,32 @@
+﻿@model IEnumerable<FinalProject.Models.Listing>
+@using FinalProject.Models
+@{
+    ViewBag.Title = "All Listings";
+}
+
+<h2>All Listings</h2>
+
+<table>
+    <tr>
+        <th>ID</th>
+        <th>Total Area</th>
+        <th>Rental Price</th>
+        <th>Description</th>
+        <th>Status</th>
+    </tr>
+    @foreach (Listing listing in Model)
+    {
+    <tr>
+        <td>@Html.Raw(listing.ListingId)</td>
+        <td>@Html.Raw(listing.TotalArea)</td>
+        <td>@Html.Raw(listing.RentalPrice)</td>
+        <td>@Html.Raw(listing.Description)</td>
+        <td>Active</td>
+        <td>
+            @Html.ActionLink("Edit", "Details", listing) |
+            @Html.ActionLink("Details", "Details", listing) |
+            @Html.ActionLink("Delete", "Details", listing)
+        </td>
+    </tr>
+    }
+</table>
