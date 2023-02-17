@@ -16,5 +16,10 @@ namespace FinalProject.Controllers
             ViewBag.Messages = messages;
             return View(messages);
         }
+
+        public IActionResult Details()
+        {
+            return View();  
+        }
     }
 }
